@@ -1,0 +1,15 @@
+@use "custom";
+
+//IMPORTS OF THE COMPONENTS
+
+@use "components/buttons";
+@use "components/mixins";
+@use "components/typography";
+
+//IMPORTS OF THE SECTIONS
+
+@use "sections/navbar";
+@use "sections/intro";
+@use "sections/aboutme";
+@use "sections/skills";
+@use "sections/footer";
